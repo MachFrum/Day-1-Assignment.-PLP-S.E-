@@ -108,11 +108,13 @@ Pros
 Structured Approach – Clearly defined stages and deliverables.
 Comprehensive Documentation – Detailed records enhance tracking and compliance.
 Predictability – Easier to estimate timelines and costs.
+
 Cons
 
 Inflexibility – Changes are difficult to implement once a phase is completed.
 Long Development Cycles – Adjustments can only be made in future iterations.
 Limited Customer Feedback – Users have minimal involvement after initial requirements are gathered.
+
 Best Use Cases
 
 Stable Requirements – Ideal when project requirements are well-defined and unlikely to change.
@@ -128,11 +130,13 @@ Pros
 Flexibility – Easily accommodates changing requirements.
 Customer Involvement – Regular feedback ensures alignment with user needs.
 Faster Delivery – Functional software is delivered in small increments.
+
 Cons
 
 Less Predictability – Timelines and costs can be harder to estimate.
 Minimal Documentation – Less emphasis on detailed documentation compared to Waterfall.
 Team Dependency – Requires strong collaboration and communication.
+
 Best Use Cases
 
 Evolving Requirements – Ideal for projects where needs may change frequently.
