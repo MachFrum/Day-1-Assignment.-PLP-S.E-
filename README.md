@@ -1,6 +1,6 @@
-# Day-1-Assignment.-PLP-S.E-
+# Day-1-Assignment. PLP-S.E.
 
-SOFTWARE ENGINEERING DAY 1 ASSIGNMENT.-
+# SOFTWARE ENGINEERING DAY 1 ASSIGNMENT.
 
 QUESTIONS :
 -
@@ -44,7 +44,7 @@ B) Provide an example of a vague prompt and then improve it by making it clear, 
 ANSWERS:
 -
 
-PART 1.
+#PART 1.
 
 A) Software Engineering.
 Definition : Software engineering applies engineering principles to the design, development, testing, and maintenance of software applications. It follows a systematic approach to analyzing user needs and creating efficient, reliable solutions within budget and time constraints. Engineers use programming languages, development tools, and methodologies to build everything from mobile apps to enterprise systems.
@@ -305,7 +305,7 @@ Validates Business Goals – Ensures alignment with business needs.
 Confirms Deployment Readiness – Approves software for production release.
 🔹 Example: Conducting user acceptance testing (UAT) for a new mobile app before launch.
 
-PART 2.
+#PART 2.
 
 A) Prompt engineering involves crafting precise and clear instructions, or "prompts," to guide AI models in generating the desired responses or outputs.
 Think of it as an art form, where the prompt acts as a canvas, and the AI model is the paintbrush. The quality of the prompt determines the quality of the resulting output.
