@@ -1,12 +1,13 @@
 # Day-1-Assignment.-PLP-S.E-
 
-
-
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18387400&assignment_repo_type=AssignmentRepo)
 # SE_Day1
-Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+SOFTWARE ENGINEERING DAY 1 ASSIGNMENT.
+
+QUESTIONS :
+-
+
+PART 1: Introduction to Software Engineering
 
 A) Explain what software engineering is and discuss its importance in the technology industry.
 
@@ -32,7 +33,7 @@ G) What are some common challenges faced by software engineers? Provide strategi
 H) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+PART 2: Introduction to AI and Prompt Engineering
 
 
 A) Define prompt engineering and discuss its importance in interacting with AI models.
@@ -40,6 +41,8 @@ A) Define prompt engineering and discuss its importance in interacting with AI m
 
 B) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
+
+ANSWERS:
 
 PART 1.
 
