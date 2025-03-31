@@ -1,13 +1,12 @@
 # Day-1-Assignment.-PLP-S.E-
 
-# SE_Day1
-
-SOFTWARE ENGINEERING DAY 1 ASSIGNMENT.
+SOFTWARE ENGINEERING DAY 1 ASSIGNMENT.-
 
 QUESTIONS :
 -
 
 PART 1: Introduction to Software Engineering
+-
 
 A) Explain what software engineering is and discuss its importance in the technology industry.
 
@@ -34,7 +33,7 @@ H) Explain the different types of testing (unit, integration, system, and accept
 
 
 PART 2: Introduction to AI and Prompt Engineering
-
+-
 
 A) Define prompt engineering and discuss its importance in interacting with AI models.
 
@@ -43,6 +42,7 @@ B) Provide an example of a vague prompt and then improve it by making it clear, 
 
 
 ANSWERS:
+-
 
 PART 1.
 
